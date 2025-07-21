@@ -13,6 +13,6 @@ export default defineNuxtConfig({
     '@pinia/nuxt'
   ],
   css: [
-    '~/assets/styles/main.css'
-  ]
+    '~/assets/css/tailwind.css'
+  ],
 })
